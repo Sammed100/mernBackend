@@ -65,5 +65,4 @@ router.post("/createuser",[
         res.send({success:false})
     }
 })
-
 module.exports = router;
